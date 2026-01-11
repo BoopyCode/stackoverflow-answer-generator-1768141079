@@ -1,0 +1,1 @@
+# No dependencies! Like a real StackOverflow answer, it works on pure magic.
